@@ -1,4 +1,4 @@
-# vue-app
+# Resume web aplication written in vueJS
 
 ## Project setup
 ```
